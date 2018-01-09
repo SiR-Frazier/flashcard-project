@@ -1,4 +1,15 @@
 $(document).ready(function() {
+  //
+  // $(".flashcard").click(function() {
+  //   $(this).addClass("hidden");
+  //   $(".answer").removeClass("hidden");
+  // });
+  // $(".answer").click(function() {
+  //   $(this).addClass("hidden");
+  //   $(".flashcard").removeClass("hidden");
+  // });
+
+
   $("#term-1").click(function() {
     $("#term-1").addClass("hidden");
     $("#def-1").removeClass("hidden");
