@@ -1,0 +1,9 @@
+.col-md-4 {
+  width: 20em;
+  height: 20em;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
