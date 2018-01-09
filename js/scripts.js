@@ -42,7 +42,7 @@ $(document).ready(function() {
   });
   $("#term-6").click(function() {
     $("#term-6").addClass("hidden");
-    $("#def-5").removeClass("hidden");
+    $("#def-6").removeClass("hidden");
   });
   $("#def-6").click(function() {
     $("#def-6").addClass("hidden");
@@ -152,15 +152,4 @@ $(document).ready(function() {
     $("#def-19").addClass("hidden");
     $("#term-19").removeClass("hidden");
   });
-
-});
-
-
-
-
-
-
-
-
-
 });
